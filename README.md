@@ -1,0 +1,3 @@
+My website is a replica of the hiveclass website with the addition of a shop. The target users are people who are intrigued by physical education and want to workout or advance their skills in certain sports. The feature I’m most proud of is the shop and links. Also, I’m proud of the way you can navigate through the page in the basketball example. If I had more time, I would make the aesthetics of the pages look more pleasing. The accessibility feature I added is alt tags. I incorporated feedback from my peers into my final project by finishing up, they thought it looked well and I just needed to finish up.
+
+Source Page: https://chatgpt.com/share/2419c584-54a6-4b87-8add-cd9208909e87
